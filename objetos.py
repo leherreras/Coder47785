@@ -48,7 +48,7 @@ print(len(dog_1))
 
 for val in dog_1:
     print(val)
-# print("------------------------")
+print("------------------------")
 #
 # dog_2 = Dog(raza="pastor aleman", color="negro")
 # print(dog_2.raza)
