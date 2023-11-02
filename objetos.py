@@ -38,7 +38,7 @@ class Dog(object):
 
 per = Persona()
 dog_1 = Dog(raza="doberman", color="Negro", duenio=per)
-print(dog_1._cantidad_ojos)
+# print(dog_1._cantidad_ojos)
 print(dog_1)
 print(dog_1.__raza)
 print(dog_1.color)
